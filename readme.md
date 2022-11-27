@@ -21,6 +21,8 @@ Step 3:
 Open the test_model.ipynb and run each cell. You can see the results of the experiment directly in this file.
 
 Reference:
+
+> <a href="https://arxiv.org/pdf/1703.04247.pdf">DeepFM: A Factorization-Machine based Neural Network for CTR Prediction</a>
 > https://github.com/chenxijun1029/DeepFM_with_PyTorch
 > https://github.com/SpringtoString/DeepFM_torch
 
